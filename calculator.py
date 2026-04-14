@@ -5,7 +5,7 @@ calculator.py
 One function per operation, in order.
 """
 # https://github.com/SeagullBeagle/lab11-AS-NM
-# Partner 1: Adam Siegel 
+# Partner 1: Adam Siegel  ss
 # Partner 2: Nicolas Murguia 
 
 import math 
